@@ -1,0 +1,15 @@
+.post-tags a:before, .terms-tags a:before {
+    content: "";
+}
+
+.tag-label p:before {
+    content: "# ";
+}
+
+.category-label p:before {
+    float: left;
+    content: "<";
+}
+.category-label p:after {
+    content: ">";
+}
