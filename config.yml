@@ -24,7 +24,7 @@ params: &params_aa
   <<: *params_a
   # 设置用户是否可切换亮暗模式，boolen
   disableThemeToggle: true
-  disableThemeToggle: false
+  # disableThemeToggle: false
   # 设置亮色或暗色模式，[dark, light]
   defaultTheme: light
 
