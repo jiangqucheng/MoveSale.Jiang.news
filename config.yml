@@ -1,11 +1,11 @@
-baseURL: https://blog.jiang.news/
+baseURL: http://Moving.Jiang.News/
 languageCode: en-us
 
 # 使用主题
 theme: PaperMod
 
 # 设置站标题
-title: Jiang.news
+title: Moving Sale @ Jiang.news
 params: &params_a
   # 设置站标题前logo，[dark, light]
   label:
@@ -13,8 +13,8 @@ params: &params_a
   
   # favicon
   assets:
-      favicon: "https://baidu.com/XIAOZHOU/xiaozhou-1c/favicon.ico"
-      favicon16x16:  "https://baidu.com/XIAOZHOU/xiaozhou-1c/favicon-16x16.png"
+      favicon: "http://blog.Jiang.News/XIAOZHOU/xiaozhou-1c/favicon.ico"
+      favicon16x16:  "http://blog.Jiang.News/XIAOZHOU/xiaozhou-1c/favicon-16x16.png"
       favicon32x32:  "/XIAOZHOU/xiaozhou-1c/favicon-32x32.png"
       apple_touch_icon:  "/XIAOZHOU/xiaozhou-1c/apple-touch-icon.png"
       safari_pinned_tab:  "/XIAOZHOU/xiaozhou-1c/safari-pinned-tab.svg"
@@ -54,61 +54,37 @@ params:
   showPostNavLinks: true
   ShowToc: true
 
-  ShareButtons: ["telegram"]
+  ShareButtons: ["telegram", "twitter", "facebook", "reddit", "whatsapp"]
 
-  components: ["telegram"]
-
-
+  components: ["telegram", "twitter", "facebook", "reddit", "whatsapp"]
 
   homeInfoParams:
     enabled: true
-    Title: Hi there !
-    Content: Welcome to my blog ... 
+    Title: 搬家甩卖啦！
+    Content: "自提地址：160 Pleasant St. Malden, MA \n
 
-  profileMode:
-    enabled: true
-    # enabled: false
-    title: "<THIS IS Title>" # optional default will be site title
-    subtitle: "Hi there, this is Jiang's self-reserved cropland."
-    imageUrl: "XIAOZHOU/xiaozhou-1s/xiaozhou.png" # optional
-    imageTitle: "This is called XIAOZHOW, the icon of mine." # optional
-    imageWidth: 240 # custom size
-    imageHeight: 240 # custom size
-    buttons:
-      - name: Archive
-        url: "/archives"
-      - name: Github
-        url: "https://github.com/jiangqucheng"
+    微信联系：jiangquchengpeter \n
+    
+    均可议价  "
 
   socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/jiangqucheng"
-    - name: "bilibili"
-      url: "https://space.bilibili.com/10861680"
-    - name: "facebook"
-      url: "https://www.facebook.com/qucheng.jiang"
     - name: "email"
-      url: "mailto://jiangquchengpeter@hotmail.com"
-
+      url: "mailto://jiangqucheng@hotmail.com"
 
 menu: 
   main: 
     - identifier: search
-      name: Q
+      name: 搜索
       url: /search/
-      Description: sssss
+      Description: 搜索想要的物件
       weight: -1
     - identifier: categories
-      name: "<Categories>"
+      name: "<分类>"
       url: /categories/
-      Description: ssssssss
+      Description: 就几件东西有啥好分的
       weight: 1
-    - identifier: "#tags"
-      name: "#Tags"
+    - identifier: tags
+      name: "#标签"
       url: /tags/
-      Description: sssssqqsss
+      Description: 莫名其妙的功能
       weight: 2
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 3
