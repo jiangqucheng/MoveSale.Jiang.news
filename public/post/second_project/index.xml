@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Second_Proj on Jiang.news</title>
+    <link>https://blog.jiang.news/post/second_project/</link>
+    <description>Recent content in Second_Proj on Jiang.news</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 23:13:31 -0400</lastBuildDate><atom:link href="https://blog.jiang.news/post/second_project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://blog.jiang.news/post/second_project/second/</link>
+      <pubDate>Fri, 22 Jul 2022 23:13:31 -0400</pubDate>
+      
+      <guid>https://blog.jiang.news/post/second_project/second/</guid>
+      <description>Hello, world. This is the second page generating with Hugo.
+First paragraph Blah, blah, emmmm&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>
