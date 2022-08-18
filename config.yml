@@ -54,6 +54,7 @@ params:
   showShareButtons: true
   showPostNavLinks: true
   # ShowToc: true
+  disableScrollToTop: true
   ShowToc: false
 
   production: true
