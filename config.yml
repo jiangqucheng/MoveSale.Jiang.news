@@ -55,6 +55,8 @@ params:
   # ShowToc: true
   ShowToc: false
 
+  production: true
+
   ShareButtons: ["telegram", "twitter", "facebook", "reddit", "whatsapp"]
 
   components: ["telegram", "twitter", "facebook", "reddit", "whatsapp"]
