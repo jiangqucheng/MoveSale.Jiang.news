@@ -6,7 +6,7 @@ env: production
 theme: PaperMod
 
 # 设置站标题
-title: http://Moving.Jiang.News/
+title: Moving.Jiang.News
 params: &params_a
   # 设置站标题前logo，[dark, light]
   label:
@@ -64,16 +64,18 @@ params:
 
   homeInfoParams:
     enabled: true
-    Title:  Moving Sale 搬家甩卖啦！
+    Title:  "Moving Sale \n
+    
+    搬家甩卖啦！"
     Content: "自提地址：160 Pleasant St. Malden, MA \n
 
     预定 8/22 截至，微信联系：jiangquchengpeter， \n
     
-    均可议价  "
+    链接在物件就在，均可议价  "
 
-  socialIcons: # optional
-    - name: "email"
-      url: "mailto://jiangqucheng@hotmail.com"
+  # socialIcons: # optional
+  #   - name: "email"
+  #     url: "mailto://jiangqucheng@hotmail.com"
 
 menu: 
   main: 
