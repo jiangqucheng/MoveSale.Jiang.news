@@ -5,12 +5,12 @@ draft: false
 cover:
     image: ItemPic/193b1062fb4762c3f74131802b20afbe.png
     caption: "官网示意图"
-tags: ["jiang.news", "MovingSale"]
+tags: ["jiang.news", "MovingSale", "躺"]
 categories: ["躺"]
 ---
 
 ### 价格
-单出微信协商 ~~( 179.99刀 )~~ ，买[床架](../bedframe)可附送。
+单出微信协商 ~~( 179.99刀 )~~ ，**买[床架](../bedframe)可附送**。
 
 ### 物件
 LINENSPA 8 Inch Memory Foam and Innerspring Hybrid Mattress 

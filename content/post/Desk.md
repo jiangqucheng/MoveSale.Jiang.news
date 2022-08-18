@@ -5,7 +5,7 @@ draft: false
 cover:
     image: ItemPic/18d5dfe2-60f8-4492-90ad-982986aa3f67_2.6687acd72a7e0bc2827c57df3d68a3bc.webp
     caption: "示意图"
-tags: ["jiang.news", "MovingSale"]
+tags: ["jiang.news", "MovingSale", "坐"]
 categories: ["坐"]
 ---
 

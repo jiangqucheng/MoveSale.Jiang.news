@@ -5,7 +5,7 @@ draft: false
 cover:
     image: ItemPic/2aac951bf17596bcca20be290579c32.jpg
     # caption: "示意图"
-tags: ["jiang.news", "MovingSale"]
+tags: ["jiang.news", "MovingSale", "送"]
 categories: ["送"]
 ---
 
