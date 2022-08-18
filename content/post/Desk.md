@@ -10,7 +10,7 @@ categories: ["坐"]
 ---
 
 ### 价格
-面议
+面议 ~~( 55刀 )~~
 
 ### 物件
 Cosco 6 Foot Centerfold Folding Table, White

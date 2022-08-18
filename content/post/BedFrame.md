@@ -10,7 +10,7 @@ categories: ["躺"]
 ---
 
 ### 价格
-自定义
+自定义 ~~( 249刀 )~~
 
 ### 物件
 IKEA MALA Bed frame, high, black-brown, Queen

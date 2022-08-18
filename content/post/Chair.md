@@ -10,7 +10,7 @@ categories: ["坐"]
 ---
 
 ### 价格
-20刀
+20刀 ~~( 79.99刀 )~~
 
 ### 物件
 IKEA LINNEBÄCK Chair, Orrsta light gray 
