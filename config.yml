@@ -52,7 +52,8 @@ params:
   showReadingTime: true
   showShareButtons: true
   showPostNavLinks: true
-  ShowToc: true
+  # ShowToc: true
+  ShowToc: false
 
   ShareButtons: ["telegram", "twitter", "facebook", "reddit", "whatsapp"]
 
