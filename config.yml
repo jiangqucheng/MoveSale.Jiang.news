@@ -1,5 +1,6 @@
 baseURL: http://Moving.Jiang.News/
 languageCode: en-us
+env: production
 
 # 使用主题
 theme: PaperMod

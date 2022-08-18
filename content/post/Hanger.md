@@ -1,9 +1,9 @@
 ---
-title: "💝买送 - 衣架若干 "
-date: 2022-08-17T09:00:00-04:00
+title: "💝买送 - 衣架 x20 "
+date: 2022-08-16T21:01:00-04:00
 draft: false
 cover:
-    # image: ItemPic/xx.jpg
+    image: ItemPic/2aac951bf17596bcca20be290579c32.jpg
     # caption: "示意图"
 tags: ["jiang.news", "MovingSale"]
 categories: ["送"]

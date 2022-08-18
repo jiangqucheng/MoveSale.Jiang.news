@@ -1,10 +1,10 @@
 ---
 title: "💰15 - CUKOR 烹饪电热板 电炉 电加热"
-date: 2022-08-17T09:00:00-04:00
+date: 2022-08-17T02:00:00-04:00
 draft: false
 cover:
     image: ItemPic/613uaw2z8zL._AC_SL1200_.jpg
-    caption: "示意图"
+    caption: "示意图，仅包括加热台，不含锅具"
 tags: ["jiang.news", "MovingSale"]
 categories: ["电"]
 ---
