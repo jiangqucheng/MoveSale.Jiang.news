@@ -1,5 +1,5 @@
 ---
-title: "💰待定 - COSCO 6英尺折叠桌 白色"
+title: "💰30 - COSCO 6英尺折叠桌 白色"
 date: 2022-08-17T09:00:00-04:00
 draft: false
 cover:
@@ -10,7 +10,7 @@ categories: ["坐"]
 ---
 
 ### 价格
-待定 ~~( 55刀 )~~
+30刀 ~~( 55刀 )~~
 
 ### 物件
 Cosco 6 Foot Centerfold Folding Table, White
@@ -22,10 +22,9 @@ Cosco 6 Foot Centerfold Folding Table, White
 ![示意图](../../ItemPic/1f1e1df7-086e-47b0-8bdd-3ba6da16eec9_2.9b79528ee735df98b485213a70610d47.jpg)
 
 ### 备注
-**需要在8月23日前搬离。** 
+**需要在8月23日前搬离。议价微信联系：yiben_1998** 
 标称承重 100 lb，其他形位参数详见参考链接。
 
-微信联系：yiben_1998
 
 ### 参考链接
 - https://www.walmart.com/ip/Cosco-6-Foot-Centerfold-Folding-Table-White/46368979
