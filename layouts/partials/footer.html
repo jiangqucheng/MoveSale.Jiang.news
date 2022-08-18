@@ -10,9 +10,14 @@
     均可议价，微信联系：Jiangquchengpeter <br/>
     自提地址：160 Pleasant St. Malden, MA <br/>
     <br/>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23560.25474896313!2d-71.08879189360927!3d42.42705707417913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37160c46f73b9%3A0xa9cc78d6f6aee191!2s160%20Pleasant%20St%2C%20Malden%2C%20MA%2002148!5e0!3m2!1szh-CN!2sus!4v1660793415164!5m2!1szh-CN!2sus" width="450"  height="250" style="border:0; max-width: 600px; min-width: 250px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe id="mapframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23560.25474896313!2d-71.08879189360927!3d42.42705707417913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37160c46f73b9%3A0xa9cc78d6f6aee191!2s160%20Pleasant%20St%2C%20Malden%2C%20MA%2002148!5e0!3m2!1szh-CN!2sus!4v1660793415164!5m2!1szh-CN!2sus"  height="250" style="border:0; max-width: 600px; min-width: 250px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     <br/>
 </div>
+
+<script>
+    const mapframe = document.getElementById("mapframe");
+    mapframe.width = window.innerWidth - 20;
+</script>
 
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
