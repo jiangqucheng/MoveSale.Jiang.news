@@ -27,6 +27,8 @@ Full Size (75"L x 54"W / 190.5 x 137.1 cm)
 ### 出厂日期
 标签：02, 2020
 
+### 备注
+**床垫需要在8月23日前搬离。** 
 
 ### 参考链接
 - https://www.amazon.com/LINENSPA-Memory-Innerspring-Hybrid-Mattress/dp/B01IU6RN9G
