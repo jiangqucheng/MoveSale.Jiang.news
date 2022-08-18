@@ -3,7 +3,7 @@ title: "💰20 - 宜家 LINNEBÄCK 休闲椅子 浅灰色 "
 date: 2022-08-17T09:00:00-04:00
 draft: false
 cover:
-    image: ItemPic/df5f052b2da54281d099ff521742c3f.jpg
+    image: ItemPic/df5f052b2da54281d099ff521742c3f_.jpg
     caption: "示意图"
 tags: ["jiang.news", "MovingSale"]
 categories: ["坐"]

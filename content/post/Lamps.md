@@ -3,7 +3,7 @@ title: "💰10/Each - 台灯x2"
 date: 2022-08-17T09:00:00-04:00
 draft: false
 cover:
-    image: ItemPic/fad8f97801822917a1aa23363473c8a.jpg
+    image: ItemPic/fad8f97801822917a1aa23363473c8a_.jpg
     caption: "示意图"
 tags: ["jiang.news", "MovingSale"]
 categories: ["电"]

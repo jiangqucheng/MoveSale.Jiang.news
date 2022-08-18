@@ -3,7 +3,7 @@ title: "💰面议 - 隔断屏风 厅位隐私神器"
 date: 2022-08-17T09:00:00-04:00
 draft: false
 cover:
-    image: ItemPic/80f76505cdf34fcba5eb54ca23b6fe0.jpg
+    image: ItemPic/80f76505cdf34fcba5eb54ca23b6fe0_.jpg
     # caption: "示意图"
 tags: ["jiang.news", "MovingSale"]
 categories: ["其他"]

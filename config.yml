@@ -13,8 +13,8 @@ params: &params_a
   
   # favicon
   assets:
-      favicon: "http://blog.Jiang.News/XIAOZHOU/xiaozhou-1c/favicon.ico"
-      favicon16x16:  "http://blog.Jiang.News/XIAOZHOU/xiaozhou-1c/favicon-16x16.png"
+      favicon: "/XIAOZHOU/xiaozhou-1c/favicon.ico"
+      favicon16x16:  "/XIAOZHOU/xiaozhou-1c/favicon-16x16.png"
       favicon32x32:  "/XIAOZHOU/xiaozhou-1c/favicon-32x32.png"
       apple_touch_icon:  "/XIAOZHOU/xiaozhou-1c/apple-touch-icon.png"
       safari_pinned_tab:  "/XIAOZHOU/xiaozhou-1c/safari-pinned-tab.svg"
