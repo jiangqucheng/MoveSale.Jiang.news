@@ -4,7 +4,7 @@ date: 2022-08-19T02:00:00-04:00
 draft: false
 cover:
     image: ItemPic/613uaw2z8zL._AC_SL1200_.jpg
-    caption: "示意图，仅包括加热台，不含锅具"
+    caption: "示意图，仅包括加热台，不含锅具等"
 tags: ["jiang.news", "MovingSale", "电"]
 categories: ["电"]
 ---
