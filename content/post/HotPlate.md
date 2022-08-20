@@ -1,5 +1,5 @@
 ---
-title: "📉💰13 - CUKOR 烹饪电热板 电炉 电加热"
+title: "📉💰12 - CUKOR 烹饪电热板 电炉 电加热"
 date: 2022-08-17T02:00:00-04:00
 draft: false
 cover:
@@ -10,7 +10,7 @@ categories: ["电"]
 ---
 
 ### 价格
-13刀  ~~( 31.99刀 )~~
+12刀  ~~( 31.99刀 )~~
 
 ### 物件
 CUKOR Hot Plate, Electric Single Burner for Cooking, 1500W Portable Electric Stove, cast-iron, Stainless Steel Non-Slip Rubber Feet
