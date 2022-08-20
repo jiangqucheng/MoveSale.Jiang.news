@@ -3,7 +3,7 @@ title: "💰10 - 台灯"
 date: 2022-08-19T09:00:00-04:00
 draft: false
 cover:
-    image: ItemPic/8d764549daaad4855fd84140530f2f6.jpg
+    image: ItemPic/5f531b10ce2de37b95f415711e698f2_.jpg
     # caption: "示意图"
 tags: ["jiang.news", "MovingSale", "电"]
 categories: ["电"]
