@@ -24,7 +24,7 @@ Cosco 6 Foot Centerfold Folding Table, White
 ![示意图](../../ItemPic/1f1e1df7-086e-47b0-8bdd-3ba6da16eec9_2.9b79528ee735df98b485213a70610d47.jpg)
 
 ### 备注
-**需要在8月23日前搬离。微信联系：yiben_1998** 
+**需要在8月24日前搬离。微信联系：yiben_1998** 
 
 几乎全新，标称承重 100 lb，其他形位参数详见参考链接。
 
