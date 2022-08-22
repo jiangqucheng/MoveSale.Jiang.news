@@ -12,7 +12,7 @@ categories: ["电"]
 ## ------ ⚠️🈚 已被预定 ⚠️🈚 ------
 
 ### 价格
-6刀  ~~( 16.99刀 )~~
+6刀  ~~( 16.99刀买入价 )~~
 
 ### 物件
 Honeywell HT-900 TurboForce Air Circulator Fan Black, Small

@@ -10,7 +10,7 @@ categories: ["电"]
 ---
 
 ### 价格
-12刀  ~~( 31.99刀 )~~
+📉12刀 ~~( 16刀 )~~  ~~( 31.99刀买入价 )~~
 
 ### 物件
 CUKOR Hot Plate, Electric Single Burner for Cooking, 1500W Portable Electric Stove, cast-iron, Stainless Steel Non-Slip Rubber Feet
