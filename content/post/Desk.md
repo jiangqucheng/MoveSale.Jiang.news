@@ -25,6 +25,7 @@ Cosco 6 Foot Centerfold Folding Table, White
 
 ### 备注
 **需要在8月23日前搬离。议价微信联系：yiben_1998** 
+
 几乎全新，标称承重 100 lb，其他形位参数详见参考链接。
 
 
