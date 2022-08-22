@@ -1,5 +1,5 @@
 ---
-title: "📉�8/Each - 台灯 x2"
+title: "📉🔪8/Each - 台灯 x2"
 date: 2022-08-17T09:00:00-04:00
 draft: false
 cover:
